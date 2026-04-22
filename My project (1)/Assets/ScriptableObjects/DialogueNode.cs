@@ -5,11 +5,17 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "DialogueLine", menuName = "ScriptableObjects/DialogueLine", order = 1)]
 public class DialogueNode : ScriptableObject
 {
-    
-    public string[] _lines;
-    public Sprite _kalosprite;
-    public string[] _playerReplyOptions;
-    public DialogueNode[] _npcReplies;
+
+    public string Line;
+    public DialogueNode nextNode;
+    public bool hasChoices;
+    public DialogueChoice[] replychoices;
+
+    [System.Serializable]
+    public class DialogueChoice
+    { public string ChoiceText;
+        public DialogueNode nextNode;
+    }
 }
    
 
