@@ -17,5 +17,7 @@ public struct Line
         public Character speakerLeft;
         public Character speakerRight;
         public Line[] lines;
+    public Question questions;
+    public Conversation nextconversation;
     }
 
