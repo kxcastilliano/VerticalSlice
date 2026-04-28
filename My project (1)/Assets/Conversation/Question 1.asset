@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Question 1
   m_EditorClassIdentifier: Assembly-CSharp::Question
-  text: What do I do?
+  text: What to Do?
   choices:
-  - text: '*Stand* (continue talking to him)'
+  - text: '*Stand* Continue talking to him'
     conversation: {fileID: 11400000, guid: 81bd4caeb7ff417498a4f077185ada96, type: 2}
     endingChange: 1
   - text: '*Hit* Try to leave'

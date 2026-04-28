@@ -17,7 +17,7 @@ public struct Choice
     {
         [TextArea(2, 5)]
         public string text;
-        public Choice[] choices;
+    public Choice[] choices;
 
     }
 

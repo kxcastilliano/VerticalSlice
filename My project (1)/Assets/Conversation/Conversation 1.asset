@@ -24,5 +24,6 @@ MonoBehaviour:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: (what is this guy's deal. he's been watching me play blackjack this entire
       time..)
-  questions: {fileID: 11400000, guid: 2bfe7c18fea057449a5e1bb12577d95f, type: 2}
+  questions: {fileID: 11400000, guid: 1ca23d103e6a0254c87486db9229c32a, type: 2}
   nextconversation: {fileID: 0}
+  isLastInteraction: 0
