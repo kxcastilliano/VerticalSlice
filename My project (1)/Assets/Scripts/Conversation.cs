@@ -19,5 +19,6 @@ public struct Line
         public Line[] lines;
     public Question questions;
     public Conversation nextconversation;
-    }
+    public bool isLastInteraction;
+}
 

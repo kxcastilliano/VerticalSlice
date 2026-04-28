@@ -16,5 +16,7 @@ MonoBehaviour:
   choices:
   - text: '*Stand* (continue talking to him)'
     conversation: {fileID: 11400000, guid: 81bd4caeb7ff417498a4f077185ada96, type: 2}
+    endingChange: 1
   - text: '*Hit* Try to leave'
     conversation: {fileID: 11400000, guid: 43d2399510f603145978a5c9e3c46656, type: 2}
+    endingChange: -1

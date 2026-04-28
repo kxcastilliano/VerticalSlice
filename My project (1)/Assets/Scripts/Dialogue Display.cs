@@ -96,7 +96,11 @@ else { AdvanceConversation(); }
 
     private void AdvanceConversation()
     {
-        if (conversation.questions != null)
+        if (conversation.isLastInteraction)
+        {
+            EndingManager.Instance.CheckEnding();
+        }
+ else if (conversation.questions != null)
         {
             questionEvent.Invoke(conversation.questions);
         }

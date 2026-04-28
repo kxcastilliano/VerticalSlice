@@ -42,6 +42,7 @@ public class ChoiceController : MonoBehaviour
 
     public void MakeChoice()
     {
+        EndingManager.Instance.AddFriendship(choice.endingChange);
         DialogueDisplay.Instance.ChangeConversation(choice.conversation);
 
         QuestionController qc = GetComponentInParent<QuestionController>();

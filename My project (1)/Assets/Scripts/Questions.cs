@@ -9,6 +9,7 @@ public struct Choice
     [TextArea(2, 5)]
     public string text;
     public Conversation conversation;
+    public int endingChange;
 }
 
     [CreateAssetMenu(fileName = "New Question", menuName = "ScriptableObjects/Question", order = 1)]
