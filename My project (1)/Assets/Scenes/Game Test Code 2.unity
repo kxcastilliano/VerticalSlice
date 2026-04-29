@@ -307,7 +307,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd182342b870ef446b36fbef09a2e0ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  question: {fileID: 0}
+  question: {fileID: 11400000, guid: 7f5cf294fc57b0442b767b3bbd19d95f, type: 2}
   questionText: {fileID: 1796436544}
   choiceButton: {fileID: 1117128698}
 --- !u!1 &218746589
@@ -344,8 +344,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 338, y: -64}
-  m_SizeDelta: {x: 147.2069, y: 170.7213}
+  m_AnchoredPosition: {x: 312, y: -69}
+  m_SizeDelta: {x: 202.1693, y: 214.2324}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &218746591
 MonoBehaviour:
@@ -367,7 +367,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 438a71dfbf50c4b41aff343e3431c1e9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -447,7 +447,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 363.31732
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -472,7 +472,7 @@ Transform:
   m_GameObject: {fileID: 262383385}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 495, y: 271, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -847,8 +847,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -299.70874, y: -55.164795}
-  m_SizeDelta: {x: 147.2069, y: 170.7213}
+  m_AnchoredPosition: {x: -276, y: -28.15}
+  m_SizeDelta: {x: 289.83, y: 190.2266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &426880500
 MonoBehaviour:
@@ -870,7 +870,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: cdff292c4720c53419f36d7c2f785072, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1040,8 +1040,8 @@ RectTransform:
   m_Children:
   - {fileID: 1040196260}
   - {fileID: 944296421}
-  - {fileID: 1130589020}
   - {fileID: 39905567}
+  - {fileID: 1130589020}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1289,7 +1289,19 @@ MonoBehaviour:
         m_CallState: 2
   conversationChangeEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 944296422}
+        m_TargetAssemblyTypeName: DialogueDisplay, Assembly-CSharp
+        m_MethodName: ChangeConversation
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: Conversation, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1002312482
 GameObject:
   m_ObjectHideFlags: 0
@@ -1399,7 +1411,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -22, y: 39}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1301.2065, y: 769.4431}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1040196261

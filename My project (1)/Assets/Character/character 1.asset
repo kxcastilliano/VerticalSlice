@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 168a7e0e200504742a41a8b238596d85, type: 3}
   m_Name: character 1
   m_EditorClassIdentifier: 
-  charactername: character 1
-  charactersprite: {fileID: -9095717837082945937, guid: a096fe6f878569644acae484feab0d98, type: 3}
+  charactername: Kalos
+  charactersprite: {fileID: 21300000, guid: cdff292c4720c53419f36d7c2f785072, type: 3}
