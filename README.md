@@ -30,4 +30,6 @@ Milestone 4 Devlog goes here.
 ## Final Devlog
 Final Devlog goes here.
 ## Open-source assets
-- Cite any external assets used here!
+- [Background Music](https://pixabay.com/music/traditional-jazz-jazz-lounge-relaxing-background-music-514554/)
+- [Placeholder Background](https://unsplash.com/s/photos/casino)
+- [Click SFX](https://sfxr.me/)
