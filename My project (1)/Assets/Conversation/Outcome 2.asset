@@ -19,5 +19,10 @@ MonoBehaviour:
     text: '* I try to leave but suddenly feel a tug on my arm*'
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Where do you think you're going? Please let me offer you a drink
-  questions: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: 'I''m sorry but I don''t think that''s necessary... '
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Oh please it's on the house, a little glass never hurt anyone.
+  questions: {fileID: 11400000, guid: 68c7233d7d0e2484d81166c059debbd5, type: 2}
   nextconversation: {fileID: 0}
+  isLastInteraction: 0

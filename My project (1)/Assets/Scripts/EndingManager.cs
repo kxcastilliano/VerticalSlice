@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -21,12 +22,20 @@ public class EndingManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
+        SyncVisualScriptingVariables();
     }
 
     public void AddFriendship(int amount)
     {
         friendshipPoints += amount;
         Debug.Log("Friendship: " + friendshipPoints);
+        SyncVisualScriptingVariables();
+    }
+
+    private void SyncVisualScriptingVariables()
+    {
+        Variables.Object(gameObject).Set("friendshippoints", friendshipPoints);
+        Variables.Object(gameObject).Set("goodthreshold", goodEndingThreshold);
     }
 
     public void CheckEnding()

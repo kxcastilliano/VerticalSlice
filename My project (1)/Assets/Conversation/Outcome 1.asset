@@ -20,5 +20,9 @@ MonoBehaviour:
       your life? it's an easy game
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: I suppose!
-  questions: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: This place is kind of pathetic don't you think? just a place filled with
+      hopeless people looking for a second chance in life.
+  questions: {fileID: 11400000, guid: 541f23064b06cf14c8e100cffd33a166, type: 2}
   nextconversation: {fileID: 0}
+  isLastInteraction: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67f1867d1e817e54989743604deaecae, type: 3}
+  m_Name: Question 2
+  m_EditorClassIdentifier: 
+  text: 
+  choices:
+  - text: '*Hit* Take the offer '
+    conversation: {fileID: 11400000, guid: ba0003cdc62574e478edaa6ef2f1e2f1, type: 2}
+    endingChange: -1
+  - text: '*Stand* Insist on declining '
+    conversation: {fileID: 11400000, guid: 2f7cc6ff5b2a33d42afbbe03ed94dd19, type: 2}
+    endingChange: 1
