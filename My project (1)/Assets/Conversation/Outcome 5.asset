@@ -16,7 +16,7 @@ MonoBehaviour:
   speakerRight: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
   lines:
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
-    text: 'I mean whhy do you think a casino like this is so lively? it''s because
+    text: 'I mean why do you think a casino like this is so lively? it''s because
       of the money, sweetheart. '
   questions: {fileID: 0}
   nextconversation: {fileID: 0}
