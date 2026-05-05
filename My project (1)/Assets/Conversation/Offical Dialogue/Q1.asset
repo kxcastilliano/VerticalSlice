@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67f1867d1e817e54989743604deaecae, type: 3}
+  m_Name: Q1
+  m_EditorClassIdentifier: 
+  text: Approach the man?
+  choices:
+  - text: Yes
+    conversation: {fileID: 11400000, guid: 5abede251ca98b24c81ff0f986f1a428, type: 2}
+    endingChange: 0
+  - text: No
+    conversation: {fileID: 11400000, guid: 66422fa379a6dfa41889a72d8b3d41e2, type: 2}
+    endingChange: 0

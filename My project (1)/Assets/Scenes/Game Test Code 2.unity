@@ -307,7 +307,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd182342b870ef446b36fbef09a2e0ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  question: {fileID: 11400000, guid: 7f5cf294fc57b0442b767b3bbd19d95f, type: 2}
+  question: {fileID: 11400000, guid: 8152ca6339d927d48910e1a9bced26b1, type: 2}
   questionText: {fileID: 1796436544}
   choiceButton: {fileID: 1117128698}
 --- !u!1 &218746589
@@ -1269,7 +1269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d692601d6384e924c87e0e84959b7e7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  conversation: {fileID: 11400000, guid: e914d05172a0d4742ba8d6a8379e75ab, type: 2}
+  conversation: {fileID: 11400000, guid: a17f2435761477540a1d6f1443d74a63, type: 2}
   speakerleft: {fileID: 517126986}
   speakerright: {fileID: 1181088605}
   questionEvent:
@@ -1848,7 +1848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   friendshipPoints: 0
-  goodEndingThreshold: 2
+  goodEndingThreshold: 1
 --- !u!4 &1208010003
 Transform:
   m_ObjectHideFlags: 0

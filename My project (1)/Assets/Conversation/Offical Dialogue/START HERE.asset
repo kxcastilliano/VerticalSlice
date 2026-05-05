@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3408257c0e5651b449419b334ab888b3, type: 3}
+  m_Name: START HERE
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+  speakerRight: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "There\u2019s actually no way this is real\u2026"
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: What am I even going to do with this many chips?
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "I guess I can save that question for after I redeem them\u2026"
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: ( I opt out of another round and place the chips in my purse)
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "(Before I go over to exchange my chips\u2026 I could\u2019ve sworn that
+      I felt some wandering eyes on me while playing.)\r\n"
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "(I turn around and see a man staring from the casino\u2019s bar)"
+  questions: {fileID: 11400000, guid: 8152ca6339d927d48910e1a9bced26b1, type: 2}
+  nextconversation: {fileID: 0}
+  isLastInteraction: 0

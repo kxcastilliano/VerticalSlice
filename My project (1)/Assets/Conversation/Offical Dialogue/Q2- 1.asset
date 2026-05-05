@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3408257c0e5651b449419b334ab888b3, type: 3}
+  m_Name: Q2- 1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+  speakerRight: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: " No. You must\u2019ve been staring at another woman."
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: 'Certainly not. How could I forget your beautiful stature? You make it
+      hard not to stare. '
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "(What a smooth talker\u2026 he makes it hard not to be charmed)"
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: How much money Did you win out there?
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "I think with all the rounds I played I ended up winning around 2.5k\u2026"
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Wow- any plans for the money?
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "I haven\u2019t thought that far into it\u2026"
+  questions: {fileID: 11400000, guid: 5c98e10ee7dd1604cbcca44c67f05f02, type: 2}
+  nextconversation: {fileID: 0}
+  isLastInteraction: 0
