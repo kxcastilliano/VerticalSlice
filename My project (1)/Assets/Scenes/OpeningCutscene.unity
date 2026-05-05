@@ -374,7 +374,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 8f70174fe3f8e5a458678174959c4b67, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -841,7 +841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c473aa3286c03840934c3e70f5de62c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  changetime: 12
+  changetime: 19.5
   scenename: Game Test Code 2
 --- !u!4 &1238896211
 Transform:
@@ -1348,8 +1348,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1528131401}
-  - {fileID: 883152391}
   - {fileID: 797893541}
+  - {fileID: 883152391}
   - {fileID: 459741939}
   m_Father: {fileID: 1385823890}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
