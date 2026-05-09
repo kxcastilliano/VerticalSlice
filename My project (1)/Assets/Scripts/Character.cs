@@ -5,5 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewCharacter", menuName = "ScriptableObjects/Character", order = 1)]
 public class Character : ScriptableObject
 { public string charactername;
-    public Sprite charactersprite;
+    public Sprite neutral;
+    public Sprite happy;
+
 }

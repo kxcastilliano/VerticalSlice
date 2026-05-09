@@ -82,14 +82,14 @@ else { AdvanceConversation(); }
         Character character = line.character;
         if (speakerUIleft.SpeakerIs(character))
         {
-            SetDialog(speakerUIleft, speakerUIright,line.text);
+            SetDialog(speakerUIleft, speakerUIright,line.text, line.expression);
         }
-        else { SetDialog(speakerUIright, speakerUIleft,line.text); }
+        else { SetDialog(speakerUIright, speakerUIleft,line.text, line.expression); }
        
     }
-    void SetDialog( SpeakerUI activeSpeakerUI, SpeakerUI inactiveSpeakerUI,
-        string text)
+    void SetDialog(SpeakerUI activeSpeakerUI, SpeakerUI inactiveSpeakerUI, string text, Sprite expression)
     { activeSpeakerUI.Dialog = text;
+        activeSpeakerUI.SetPortrait(expression);
         activeSpeakerUI.Show();
         inactiveSpeakerUI.Hide();
     }

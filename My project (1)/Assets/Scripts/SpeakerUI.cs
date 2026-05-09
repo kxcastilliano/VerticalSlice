@@ -15,7 +15,7 @@ public TextMeshProUGUI fullName;
     
 { get { return speaker; }
         set { speaker = value;
-            portrait.sprite = speaker.charactersprite;
+            portrait.sprite = speaker.neutral;
             fullName.text = speaker.charactername;
         }
     }
@@ -30,6 +30,13 @@ public TextMeshProUGUI fullName;
 
     { return speaker == character; }
 
+   public void SetPortrait(Sprite sprite)
+    {
+        if (sprite != null)
+        {
+            portrait.sprite = sprite;
+        }
+    }
     public void Show()
     { gameObject.SetActive(true); }
 

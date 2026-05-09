@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Kalos- S1
   m_EditorClassIdentifier: 
   charactername: Kalos
-  charactersprite: {fileID: 21300000, guid: cdff292c4720c53419f36d7c2f785072, type: 3}
+  neutral: {fileID: 21300000, guid: cdff292c4720c53419f36d7c2f785072, type: 3}
+  happy: {fileID: 0}

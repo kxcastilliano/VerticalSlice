@@ -11,6 +11,8 @@ public class EndingManager : MonoBehaviour
     public int friendshipPoints = 0;
 
     public int goodEndingThreshold = 3;
+    public string firstcutscene;
+    public string secondcutscene;
 
     private void Awake()
     {
@@ -42,11 +44,11 @@ public class EndingManager : MonoBehaviour
     {
         if (friendshipPoints >= goodEndingThreshold)
         {
-            SceneManager.LoadScene("GoodEnding");
+            SceneManager.LoadScene(firstcutscene);
         }
         else
         {
-            SceneManager.LoadScene("BadEnding");
+            SceneManager.LoadScene(secondcutscene);
         }
     }
 }
