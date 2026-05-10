@@ -15,9 +15,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Game Test Code 2.unity
     guid: 30519973727f29c45b17d19ee031ed83
   - enabled: 1
-    path: Assets/Scenes/GoodEnding.unity
+    path: Assets/Scenes/DrinkCut.unity
     guid: a6a8631c59698264587efd4afa3ac2ac
   - enabled: 1
-    path: Assets/Scenes/BadEnding.unity
+    path: Assets/Scenes/WalkCut.unity
     guid: 2ee3f5ab5f96ffd4d9f29003c899b814
+  - enabled: 1
+    path: Assets/Scenes/WalkScene.unity
+    guid: b86e1b1cc4218d046a35176683e4721e
+  - enabled: 1
+    path: Assets/Scenes/DrinkScene.unity
+    guid: 50e52e36cf6f3404382fb0e9be223770
   m_configObjects: {}
