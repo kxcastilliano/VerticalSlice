@@ -17,15 +17,21 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: 'What brings you here? Besides watching women from afar. '
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "Hah! Well, my apologies, I\u2019ll be sure to keep my eyes to myself. "
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
-    text: "I just came down here in my past time. I'm not so lucky a gambler, but
-      I think it\u2019s fun watching others. \r\n"
+    text: 'I just came down here in my past time. I''m not so lucky a gambler.
+
+'
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
-    text: 'Their wins. Their failures. '
+    text: "But I think it\u2019s fun watching others... Their wins. Their failures. "
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "It\u2019s people like you who bring life to this place. "
+    expression: {fileID: 0}
   questions: {fileID: 0}
   nextconversation: {fileID: 0}
   isLastInteraction: 1

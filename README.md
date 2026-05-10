@@ -22,7 +22,26 @@
 
 
 ## Milestone 2 Devlog
-Milestone 2 Devlog goes here.
+
+### Prompt 1 
+
+Complicated Gamerplay feature: Different action/events happening depending on the player's friendship level. 
+
+#### Step 1: Create an indicator that tells players how their friendship level is
+1. Find and download 2 short sfx clips, one to indicate a low friendship level and one to indicate a good friendship level. 
+2. import the sfx into unity
+3. Inside of the EndingManager GameObject, attach the two sfx as an audio clip and add an audio source
+4. In the state machine that the ending manager uses create 3 new variables, 1 audio source and 2 audio clips 
+5. Open the state machine and inside of both the Bad ending state and good ending states "on state enter event" attach a play audio node that plays the desired audio clip for each state
+6. Run game, with this attachment, the bad ending sfx should play and test to see when the player reaches the good threshold if the good ending sfx plays. 
+
+### Step 2: Lead the players to different cut scenes/dialogue depending on their friendhship level
+1. Open the EndingManager Script
+2. Rather than having the CheckEnding method load a specfic scene, create two string variables that will be loaded depending on the cutscene (that way this script can be accessible and used in branching scenes)
+3. Assign in the inspector the cutsscene that will play if the player reaches a good firendship level versus a bad friendship level. 
+4. Open the two time line cutscenes and create an empty scene changer gameobject and attach the scene changer script as  it's components. (similar nature to what the openingcutscene does once it finishes playing)
+5. Create two new playable scenes that will launch in the endings scene changer AFTER the cutscene has finished playing (this will have it so that after the player has reached a certain cutscene they are able to continue gameplay rather than them being stuck on a screen after they finished dialogue.)
+
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
 ## Milestone 4 Devlog
