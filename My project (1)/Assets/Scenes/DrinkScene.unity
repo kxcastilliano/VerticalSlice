@@ -1269,7 +1269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d692601d6384e924c87e0e84959b7e7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  conversation: {fileID: 11400000, guid: a17f2435761477540a1d6f1443d74a63, type: 2}
+  conversation: {fileID: 11400000, guid: 30b7cc28737ea2a469268d86e11eaede, type: 2}
   speakerleft: {fileID: 517126986}
   speakerright: {fileID: 1181088605}
   questionEvent:
