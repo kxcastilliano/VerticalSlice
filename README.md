@@ -35,12 +35,22 @@ Complicated Gamerplay feature: Different action/events happening depending on th
 5. Open the state machine and inside of both the Bad ending state and good ending states "on state enter event" attach a play audio node that plays the desired audio clip for each state
 6. Run game, with this attachment, the bad ending sfx should play and test to see when the player reaches the good threshold if the good ending sfx plays. 
 
-### Step 2: Lead the players to different cut scenes/dialogue depending on their friendhship level
+#### Step 2: Lead the players to different cut scenes/dialogue depending on their friendhship level
 1. Open the EndingManager Script
 2. Rather than having the CheckEnding method load a specfic scene, create two string variables that will be loaded depending on the cutscene (that way this script can be accessible and used in branching scenes)
 3. Assign in the inspector the cutsscene that will play if the player reaches a good firendship level versus a bad friendship level. 
 4. Open the two time line cutscenes and create an empty scene changer gameobject and attach the scene changer script as  it's components. (similar nature to what the openingcutscene does once it finishes playing)
 5. Create two new playable scenes that will launch in the endings scene changer AFTER the cutscene has finished playing (this will have it so that after the player has reached a certain cutscene they are able to continue gameplay rather than them being stuck on a screen after they finished dialogue.)
+
+
+### Prompt 1- Post-Coding
+
+Coming from someone who gets really intimidated by doing things that feel super complex, I do think that these task breakdowns were a nice way for my brain to understand that these intimidating things aren’t as complicated and stressful as I make them out to be. By breaking these tasks down into smaller steps it gave me the confidence to try and implement these things into my game and allowed me to finish them at an earlier time frame rather than holding them off due to fear. These breakdowns are also great references to look back at and they are easy to follow; for example, if I were to write a breakdown for my future self they would be able to see it and understand what to do (once again giving them less pressure when going in to work on the game. ) A world of advice that I would consider in future task break downs I might do is to get very very specific in your steps. The more little steps and details you add into a bigger step, the less confusion there will be when looking back at said tasks.
+
+### Prompt 2
+
+
+
 
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
