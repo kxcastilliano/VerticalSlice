@@ -49,7 +49,11 @@ Coming from someone who gets really intimidated by doing things that feel super 
 
 ### Prompt 2
 
+An instance where I was calling a C# method inside of a visual scripting graph can be found in a start game graph that is a component to my start game button from my start game scene. Within this graph there's the on click event node and attached to it would be a node that is calling my Start Game C# script's Go to Opening Cutscene method. With this, when the game runs and the player clicks on the Start game button, it will launch them to the game's opening cutscene. 
 
+### Prompt 3
+
+The Unity System that I have used is Timeline and it is being used in my OpeningCutscene Scene, Walk Scene and Drink Scene. With timeline I created both an opening cutscene that gives the readers some context prior to playing the game and some transition scenes to make the jump between interactions more smoother.
 
 
 ## Milestone 3 Devlog
