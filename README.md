@@ -69,3 +69,7 @@ Final Devlog goes here.
 - [Background Music](https://pixabay.com/music/traditional-jazz-jazz-lounge-relaxing-background-music-514554/)
 - [Placeholder Background](https://unsplash.com/s/photos/casino)
 - [Click SFX](https://sfxr.me/)
+- [Start Game Menu Music](https://rustedstudio.itch.io/free-music-ambient-piano-jazz-tracks?download)
+- [Card Asset](https://assetstore.unity.com/packages/3d/props/playing-cards-design-pack-160928)
+- [Sfx for Bad state](https://sfxr.me/)
+- [Sfx for Good state](https://sfxr.me/)
