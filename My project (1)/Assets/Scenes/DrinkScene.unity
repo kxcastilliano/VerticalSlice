@@ -1978,8 +1978,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   friendshipPoints: 0
   goodEndingThreshold: 1
-  firstcutscene: GoodEnding
-  secondcutscene: BadEnding
+  firstcutscene: PlaceHolder
+  secondcutscene: PlaceHolder
 --- !u!4 &1208010003
 Transform:
   m_ObjectHideFlags: 0

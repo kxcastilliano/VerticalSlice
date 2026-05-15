@@ -35,4 +35,4 @@ MonoBehaviour:
     expression: {fileID: 0}
   questions: {fileID: 0}
   nextconversation: {fileID: 0}
-  isLastInteraction: 0
+  isLastInteraction: 1

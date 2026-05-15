@@ -23,7 +23,7 @@ public class EndingManager : MonoBehaviour
         }
 
         Instance = this;
-        DontDestroyOnLoad(gameObject);
+        
         SyncVisualScriptingVariables();
     }
 
