@@ -49,6 +49,9 @@ Coming from someone who gets really intimidated by doing things that feel super 
 
 ### Prompt 2
 
+<img width="1186" height="713" alt="Screenshot 2026-05-12 213414" src="https://github.com/user-attachments/assets/65b08a78-b8f7-4286-9f2d-f10652e4949c" />
+
+
 An instance where I was calling a C# method inside of a visual scripting graph can be found in a start game graph that is a component to my start game button from my start game scene. Within this graph there's the on click event node and attached to it would be a node that is calling my Start Game C# script's Go to Opening Cutscene method. With this, when the game runs and the player clicks on the Start game button, it will launch them to the game's opening cutscene. 
 
 ### Prompt 3
@@ -66,3 +69,7 @@ Final Devlog goes here.
 - [Background Music](https://pixabay.com/music/traditional-jazz-jazz-lounge-relaxing-background-music-514554/)
 - [Placeholder Background](https://unsplash.com/s/photos/casino)
 - [Click SFX](https://sfxr.me/)
+- [Start Game Menu Music](https://rustedstudio.itch.io/free-music-ambient-piano-jazz-tracks?download)
+- [Card Asset](https://assetstore.unity.com/packages/3d/props/playing-cards-design-pack-160928)
+- [Sfx for Bad state](https://sfxr.me/)
+- [Sfx for Good state](https://sfxr.me/)
