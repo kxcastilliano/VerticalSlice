@@ -60,7 +60,30 @@ The Unity System that I have used is Timeline and it is being used in my Opening
 
 
 ## Milestone 3 Devlog
-Milestone 3 Devlog goes here.
+
+### Prompt 1
+
+I currently use two shader Graphs in my game: one is simpler, while the other is more complex.
+
+
+
+
+My first shader graph appears when the player first opens the game in the start game menu. This shader is a simple sprite unlit shader that has tinted the original picture of the start game menu’s image.
+The graph uses two properties: a color property that is assigned the color red, and a texture2D property that contains the image of my start game menu. Using a blend node, I combine both the game’s image (in the sample texture 2D node) and the color node. Originally, the output of this blend node was just a red screen, but after I had tweaked the blend node's opacity and then swapped the modes into overlay to receive the proper effect that I wanted. Other than this, the split node was to ensure that the color variables and the alpha variables were able to go to their correct outputs, thus meaning that there was no alpha going into the color output and vice versa. 
+The second shader graph is shown only in the first dialogue sequence of the game (since I want to improve/replace it in the future), and it is a small outline around the left edges of one of my sprites. To achieve this effect. I had grabbed the original texture of my sprite and created an offset with its UV, as seen through the use of the tiling and offsetting graph. I had offset the x-axis by 0.01, which makes the sprite move slightly to the left. Then, using a subtraction node.  I’ve subtracted the alphas of the original sprite and the offset sprite. What this does is that it identifies the edges of the new sprite and removes any spaces that overlap with eachother which is why the resulting image is only the outlined region of the sprite. Since the offset sprite is slightly to the left, it isn’t canceled out by the placement of the original sprite.
+Then, to apply the color, I used a multiply node that takes the subtraction output and layers it with a yellowish color. Finally, using an add node, I take the original sprite and add it to the finished outline, combining the two to show the original sprite with an additional yellow outline. Once again, the split node was used to separate the alpha and the color variables within its designated outputs. 
+
+### Prompt 2
+
+In regards to the playtesting feedback,  a big thing that was mentioned was that they wanted to see some kind of UI fixes: one to see the text better and another to get some kind of indicator of when they can actually click through dialogue after the cutscenes end. To achieve this I had simply changed my characters name to white and changed the opacity of the UIs boxes. I had also activated the characters dialog object so after the cut scene transitions, the players will see a character spawn indicating that they’re able to now play through the game!
+
+### Prompt 3
+
+In terms of added game content my vertical slice now has 4 out of the 8 possible endings.  The player can continue along the story line and read through a lot more dialogue. I have also implemented instances where the player can pick three instead of 2 choices. This helping balance out the odds of getting sent into a certain ending. Though there’s still some art that is going to be added the original two transition art have been completed and polished in contrast to their original forms which were just rough sketches. Listed on the itch are instructions to see the more advanced storylines. From here I plan on adding the final four endings, more art and use of timeline and possibly expanding the dialogue and questions in each route. 
+
+
+
+
 ## Milestone 4 Devlog
 Milestone 4 Devlog goes here.
 ## Final Devlog

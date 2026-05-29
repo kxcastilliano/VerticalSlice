@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3408257c0e5651b449419b334ab888b3, type: 3}
+  m_Name: Let it be
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+  speakerRight: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: ' Hmm you bet for this one on your own will join next round'
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "You\u2019re lame. Fine. "
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "I'm guessing\u2026"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: the one with the purple saddle, Bittersweets is gonna take it
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "we will have to see\u2026 "
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: (why would he choose the smallest horse.. Is he out of his mind)
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "(Looks like the race is starting\u2026)"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: ...
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: ...
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: (Huh! No way! Did he just)
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "Oh wow\u2026 I was right\u2026"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: I must be lucky tonight.
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: alright come on the next round is starting
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: " Let's guess this round\u2026"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: new sets of horses this round.
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: Okay Okay
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: I'll go with Virtues
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: You took my pick..
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "Fine. I\u2019ll go with.."
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: Hurricane
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: ' May the best horse win.'
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "\u2026"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "\u2026"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Oh what do you know.
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: I won.
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "It was so close\u2026"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Hm! I wonder what my reward will be?
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: A reward what?!
+    expression: {fileID: 0}
+  questions: {fileID: 11400000, guid: 28c8bb2d542563546aa2472f91acf78c, type: 2}
+  nextconversation: {fileID: 0}
+  isLastInteraction: 0

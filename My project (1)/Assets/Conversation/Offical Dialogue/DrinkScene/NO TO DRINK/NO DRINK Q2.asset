@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67f1867d1e817e54989743604deaecae, type: 3}
+  m_Name: NO DRINK Q2
+  m_EditorClassIdentifier: 
+  text: What's Your Play?
+  choices:
+  - text: '[Hit!] - *Kiss*'
+    conversation: {fileID: 11400000, guid: a10f67201b307c044abaf2c69ea270af, type: 2}
+    endingChange: 1
+  - text: '[Stand]- *Give a chip'
+    conversation: {fileID: 11400000, guid: 585617f0a0d775747b109a9b817eea59, type: 2}
+    endingChange: -1
+  - text: '[Split!]- *Laugh it off*'
+    conversation: {fileID: 11400000, guid: dd3c6ea022600794d9fdeba8d78106c2, type: 2}
+    endingChange: 0

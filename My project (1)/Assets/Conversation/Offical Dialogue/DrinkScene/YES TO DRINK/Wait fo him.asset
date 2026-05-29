@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3408257c0e5651b449419b334ab888b3, type: 3}
+  m_Name: Wait fo him
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+  speakerRight: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "You think you\u2019re going to play more rounds tonight?"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: Of blackjack? No way
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: I was going to  be on my way to redeem my earnings
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "until I caught a glimpse of someone\u2019s wandering eyes\u2026"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "*He\u2019d laugh*"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: What's wrong with a small detour?
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: 'Oh nothing
+
+'
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: " And there\u2019s no way I\u2019m going to play after drinking "
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: 'Too much of a risk
+
+'
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Mhm.. that is true.
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: 'Finally I think our drinks are here. '
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: '(the bartender would approach us and set two glasses in front of us)
+
+'
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: What did you order for me?
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: 'Hm? '
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: 'Oh, it''s a Cosmopolitan. '
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "I thought you\u2019d like it. It matches your hair."
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: How strong is it?
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "you\u2019ll have to see for yourself."
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: A cheers to Ryn.
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: Wow.. this drink is good
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: 'Cheers.
+
+'
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: So Ryn, Remind me, what brings you here?
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: (He seem like a nice guy.. Do I trust him enough to share that)
+    expression: {fileID: 0}
+  questions: {fileID: 11400000, guid: 9cde2190b3d3dcd4fade9f56bb927c16, type: 2}
+  nextconversation: {fileID: 0}
+  isLastInteraction: 0

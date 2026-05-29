@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3408257c0e5651b449419b334ab888b3, type: 3}
+  m_Name: Q2 END
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+  speakerRight: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "So what is it that you do anyways? \r"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "Outside of staring at people like a creep.\r"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "\rhah. You\u2019re funny. \r\n"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Im a film director
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: 'wait really?
+
+'
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Mhm
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "That\u2019s so.. Cool"
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: Have you worked on anything yet?
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Not really-
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: "Though I\u2019m flattered you think It\u2019s cool."
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    text: Another drink?
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: Sure.
+    expression: {fileID: 0}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
+    text: "(What Am i doing\u2026 taking more drinks)"
+    expression: {fileID: 0}
+  questions: {fileID: 11400000, guid: 450b026864d84df47bdce9892f927196, type: 2}
+  nextconversation: {fileID: 0}
+  isLastInteraction: 0
