@@ -30,39 +30,39 @@ EditorBuildSettings:
     path: Assets/Scenes/PlaceHolder.unity
     guid: c2678b5a5a1ef1c4cac4bc4d47ee1b47
   - enabled: 1
-    path: Assets/Scenes/YesDrinkCut.unity
+    path: Assets/Scenes/Yes Drink Scene/YesDrinkCut.unity
     guid: 4870b6272ef7f13428727eade16c7751
   - enabled: 1
-    path: Assets/Scenes/YesDrinkScene.unity
+    path: Assets/Scenes/Yes Drink Scene/YesDrinkScene.unity
     guid: d2023f8e8be5024408e1f081f24a395d
   - enabled: 1
-    path: Assets/Scenes/BlackoutBAD.unity
+    path: Assets/Scenes/Yes Drink Scene/BlackoutBAD.unity
     guid: f3829b791ca246d458fd731a97276e11
   - enabled: 1
-    path: Assets/Scenes/BlackoutCutBAD.unity
+    path: Assets/Scenes/Yes Drink Scene/BlackoutCutBAD.unity
     guid: 0830759da2e897f4da53338981fc52e9
   - enabled: 1
-    path: Assets/Scenes/BlackoutCutGOOD.unity
+    path: Assets/Scenes/Yes Drink Scene/BlackoutCutGOOD.unity
     guid: 9718b5da9e1f73742a9272104ffab6b2
   - enabled: 1
-    path: Assets/Scenes/BlackoutGOOD.unity
+    path: Assets/Scenes/Yes Drink Scene/BlackoutGOOD.unity
     guid: 3e9137d44e34ec24c8ece048bdfc402a
   - enabled: 1
-    path: Assets/Scenes/NoDrinkCut.unity
+    path: Assets/Scenes/NoDrink/NoDrinkCut.unity
     guid: 50dfe7e7d8e45284d9f70fc05da990d1
   - enabled: 1
-    path: Assets/Scenes/NoDrinkScene.unity
+    path: Assets/Scenes/NoDrink/NoDrinkScene.unity
     guid: 53520b89c030013438326d47a7e3a118
   - enabled: 1
-    path: Assets/Scenes/BadNoDrink.unity
+    path: Assets/Scenes/NoDrink/BadNoDrink.unity
     guid: d481bd25fe7d50348980be02dd52a113
   - enabled: 1
-    path: Assets/Scenes/NODRINKGOOD.unity
+    path: Assets/Scenes/NoDrink/NODRINKGOOD.unity
     guid: 4ba6b8ac043f6aa42bcca32c93ae521c
   - enabled: 1
-    path: Assets/Scenes/NODRINKBAD.unity
+    path: Assets/Scenes/NoDrink/NODRINKBAD.unity
     guid: 3549e0ff58c14b246afcd27ce8eca74a
   - enabled: 1
-    path: Assets/Scenes/GoodNoDrink.unity
+    path: Assets/Scenes/NoDrink/GoodNoDrink.unity
     guid: d24958f9e8422ad4fb53c1e34eba7667
   m_configObjects: {}
