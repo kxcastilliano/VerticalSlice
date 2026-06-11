@@ -3,14 +3,15 @@
 
 ### Prompt 1
 
-<img width="1312" height="857" alt="Screenshot 2026-04-28 191844" src="https://github.com/user-attachments/assets/6a016c67-9c6a-44ec-979c-896bd56f1a20" />
+<img width="960" height="720" alt="Breakdown " src="https://github.com/user-attachments/assets/d7de78d1-6f9f-4725-aced-363c660bd812" />
 
   Pictured above is a visual scripting graph attached to  my empty “SFX Manager” in my game space. The starting node for this graph is an on update node meaning that this graph’s logic is being constantly checked and runned every frame the game runs. Through this update node, the graph then checks if the player is pressing space with the get key down node, and using an if statement node, in the event that input is true the logic will proceed through, grabbing an object variable “Speaker” which is an audio source as well as a specific audio clip and then playing this sound and making it heard by the players. Looking at this from a player’s perspective, every time they press space to move through dialogue, a small 8 bit selection sound effect will play. 
 
 
 ### Prompt 2
 
-<img width="960" height="720" alt="Breakdown " src="https://github.com/user-attachments/assets/d7de78d1-6f9f-4725-aced-363c660bd812" />
+
+<img width="1312" height="857" alt="Screenshot 2026-04-28 191844" src="https://github.com/user-attachments/assets/6a016c67-9c6a-44ec-979c-896bd56f1a20" />
 
   Looking at my updated breakdown in reference to my breakdown in earlier production of my game, I have added more details regarding the many different systems in my game since there is a lot going on behind the scenes. First change that I made was separating my dialogue system depending on the UI being used and separating it from having one system of the player being able to click through dialogue with the space bar (dialogue display script) and a system for identifying when the player has reached a question segment in which they must choose and click buttons which will not only lead to different dialogue segments but each choice has a value attached (either adding one or subtracting one) that contributes to a friendshipmeter, and depending on the players ending score when they reach their last interaction, they will be sent to the good ending or the bad ending scene. 
 
