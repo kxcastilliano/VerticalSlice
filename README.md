@@ -3,14 +3,15 @@
 
 ### Prompt 1
 
-<img width="1312" height="857" alt="Screenshot 2026-04-28 191844" src="https://github.com/user-attachments/assets/6a016c67-9c6a-44ec-979c-896bd56f1a20" />
+<img width="960" height="720" alt="Breakdown " src="https://github.com/user-attachments/assets/d7de78d1-6f9f-4725-aced-363c660bd812" />
 
   Pictured above is a visual scripting graph attached to  my empty “SFX Manager” in my game space. The starting node for this graph is an on update node meaning that this graph’s logic is being constantly checked and runned every frame the game runs. Through this update node, the graph then checks if the player is pressing space with the get key down node, and using an if statement node, in the event that input is true the logic will proceed through, grabbing an object variable “Speaker” which is an audio source as well as a specific audio clip and then playing this sound and making it heard by the players. Looking at this from a player’s perspective, every time they press space to move through dialogue, a small 8 bit selection sound effect will play. 
 
 
 ### Prompt 2
 
-<img width="960" height="720" alt="Breakdown " src="https://github.com/user-attachments/assets/d7de78d1-6f9f-4725-aced-363c660bd812" />
+
+<img width="1312" height="857" alt="Screenshot 2026-04-28 191844" src="https://github.com/user-attachments/assets/6a016c67-9c6a-44ec-979c-896bd56f1a20" />
 
   Looking at my updated breakdown in reference to my breakdown in earlier production of my game, I have added more details regarding the many different systems in my game since there is a lot going on behind the scenes. First change that I made was separating my dialogue system depending on the UI being used and separating it from having one system of the player being able to click through dialogue with the space bar (dialogue display script) and a system for identifying when the player has reached a question segment in which they must choose and click buttons which will not only lead to different dialogue segments but each choice has a value attached (either adding one or subtracting one) that contributes to a friendshipmeter, and depending on the players ending score when they reach their last interaction, they will be sent to the good ending or the bad ending scene. 
 
@@ -99,8 +100,14 @@ Looking back at my Vertical slice plan, I was able to execute the same gameplay 
 
 The rendering effect present in my game that is activated through gameplay logic is found when the player first loads the game. In the start game menu, there is now a card on the top left of the screen. If the player clicks e, the menu blurs, and a new UI pops up, which is a simple, fun little introduction to the game’s storyline. Connected to the start menu art is a material that is attached to a blur shader graph. To get the blur to activate, I used a C# script “StartGameBlur” to edit the material once commanded to (when the player presses “e”)
 
+<img width="1907" height="887" alt="Screenshot 2026-06-10 215935" src="https://github.com/user-attachments/assets/f58be5a1-db78-4e0a-998c-0cd1c97a0b37" />
+
+
 
 Within the script, it has 4 different variables: one to attach the game art’s material, a bool, a float that registers the material’s blur amount, and the game object that has the UI that will pop up after the menu blurs. In the start method of the class, it registers the materials blur as well as the UI to be shut off. Then, within the game’s update method, using an if statement, it registers when the player clicks e, and as a result, the UI will pop up, and it registers that the material should start blurring. Following this is another if statement that processes if that bluractive bool is set to true, the blur amount will be multiplied by blurspeed (a variable that processes how fast the transition should be to activate the effect) and Time.Delta.Time. At the very bottom of the update method, the last line is where the material is being used, the C# calls “_Blur”, (a variable in the materials shader graph that controls the amount of blur added onto the image) and attaches it to the bluramount variable in the code, that way the shader’s blur is being controlled and tampered with through C#.
+
+<img width="1918" height="1145" alt="Screenshot 2026-06-10 215637" src="https://github.com/user-attachments/assets/7a06af35-a90a-4226-a689-1a3f3fca5377" />
+
 
 
 From the shader graph, the “Blur_” reference is attached to the blur amount, which is connected to the multiply and combine function of the shader graph. The math behind this shader graph allows it so that, depending on the blur’s value, the two UVs from the left and right will be offset by that value, creating a blur effect.
