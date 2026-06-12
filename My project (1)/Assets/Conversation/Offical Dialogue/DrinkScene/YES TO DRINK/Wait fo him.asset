@@ -20,7 +20,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Of blackjack? No way
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: I was going to  be on my way to redeem my earnings
     expression: {fileID: 0}
@@ -48,7 +48,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Mhm.. that is true.
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'Finally I think our drinks are here. '
     expression: {fileID: 0}
@@ -62,13 +62,13 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'Hm? '
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'Oh, it''s a Cosmopolitan. '
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "I thought you\u2019d like it. It matches your hair."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5738531f6c9943b44adfb6c8fac35aa8, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: How strong is it?
     expression: {fileID: 0}
@@ -80,7 +80,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Wow.. this drink is good
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: 'Cheers.
 
@@ -88,7 +88,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: So Ryn, Remind me, what brings you here?
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: (He seem like a nice guy.. Do I trust him enough to share that)
     expression: {fileID: 0}

@@ -17,10 +17,10 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: (He seems to be waiting for the bartender to come around)
-    expression: {fileID: 21300000, guid: 438a71dfbf50c4b41aff343e3431c1e9, type: 3}
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "(I sure hope I\u2019m not making a fool out of myself)"
-    expression: {fileID: 21300000, guid: 438a71dfbf50c4b41aff343e3431c1e9, type: 3}
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   questions: {fileID: 11400000, guid: f7d1b2197b23caa4cb779ec1260e21bb, type: 2}
   nextconversation: {fileID: 0}
   isLastInteraction: 0

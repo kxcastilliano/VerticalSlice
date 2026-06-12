@@ -20,7 +20,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Why do you say that?
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: it looks the prettiest, Just a gut feeling
     expression: {fileID: 0}
@@ -44,13 +44,13 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: ' *Gasp*'
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: I WAS RIGHT!
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "you\u2019re just so good at everything aren\u2019t you?"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5738531f6c9943b44adfb6c8fac35aa8, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: alright come on the next round is starting
     expression: {fileID: 0}
@@ -92,13 +92,13 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "It was so close\u2026"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Hm! I wonder what my reward will be?
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: A reward what?!
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   questions: {fileID: 11400000, guid: 28c8bb2d542563546aa2472f91acf78c, type: 2}
   nextconversation: {fileID: 0}
   isLastInteraction: 0

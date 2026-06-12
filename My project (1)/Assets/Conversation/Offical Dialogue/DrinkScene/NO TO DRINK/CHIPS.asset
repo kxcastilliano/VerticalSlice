@@ -17,13 +17,13 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Here
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: for me? Really
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: 'You won fair and square. '
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: how much is this worth?
     expression: {fileID: 0}
@@ -31,7 +31,7 @@ MonoBehaviour:
     text: 'only 5 dollars
 
 '
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "Hey, I\u2019ll take it."
     expression: {fileID: 0}

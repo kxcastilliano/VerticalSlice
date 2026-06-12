@@ -17,19 +17,26 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: " No. You must\u2019ve been staring at another woman."
+    expression: {fileID: 21300000, guid: 040f6d41d34c6504c8a9122c52bb89d6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'Certainly not. How could I forget your beautiful stature? You make it
       hard not to stare. '
+    expression: {fileID: 21300000, guid: 5738531f6c9943b44adfb6c8fac35aa8, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "(What a smooth talker\u2026 he makes it hard not to be charmed)"
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: How much money Did you win out there?
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "I think with all the rounds I played I ended up winning around 2.5k\u2026"
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Wow- any plans for the money?
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "I haven\u2019t thought that far into it\u2026"
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   questions: {fileID: 11400000, guid: 5c98e10ee7dd1604cbcca44c67f05f02, type: 2}
   nextconversation: {fileID: 0}
   isLastInteraction: 0

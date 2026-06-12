@@ -17,51 +17,51 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "ykneow\u2026. You\u2019re kind of cute"
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'Excuse me?
 
 '
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "You have\u2026 pretty hair\u2026."
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: " and so\u2026 myster..ious\u2026\r\n"
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: why uhmm.. Thank you
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: (What am i even saying at this point eughh..)
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "(I\u2019ve only had two drinks and I feel funny\u2026)"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Geez.. what even is in these drinks
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: ' I do apologize'
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "I would\u2019ve got something more tame."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: is it bad to say that I want more-
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: " I don\u2019t think that\u2019s a good idea."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "eugh\u2026"
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Ryn?
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Ryn?!
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   questions: {fileID: 0}
   nextconversation: {fileID: 0}
   isLastInteraction: 1

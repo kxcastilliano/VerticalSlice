@@ -14,9 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: Let him join?
   choices:
-  - text: '[Hit!]- Reject the offer'
-    conversation: {fileID: 11400000, guid: 84b1cf1a817df2747939088f4301715f, type: 2}
-    endingChange: -1
-  - text: '[Stand!]- Accept the offer'
+  - text: Accept  the offer
     conversation: {fileID: 11400000, guid: c48e6826e05bd4c4fb4fb4898a5e8e7d, type: 2}
     endingChange: 1

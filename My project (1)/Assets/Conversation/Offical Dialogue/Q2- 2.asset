@@ -17,16 +17,20 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: ' Yes, is there a problem?'
+    expression: {fileID: 21300000, guid: 040f6d41d34c6504c8a9122c52bb89d6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: No! Of course not, I was just watching you play, and I must say that I
       was very fascinated.
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "Fascinated? I mean, it\u2019s only Blackjack, I don\u2019t think winning
       a few rounds is that impressive\u2026"
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'You can say that, but that stack of chips you won over there says it all!
 
 '
+    expression: {fileID: 21300000, guid: 5738531f6c9943b44adfb6c8fac35aa8, type: 3}
   questions: {fileID: 11400000, guid: 5c98e10ee7dd1604cbcca44c67f05f02, type: 2}
   nextconversation: {fileID: 0}
   isLastInteraction: 0

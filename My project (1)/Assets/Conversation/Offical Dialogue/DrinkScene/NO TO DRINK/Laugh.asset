@@ -17,10 +17,10 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Haha, you wish
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: It was worth a try.. Haha
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: I think the last round is starting, a new set of horses again
     expression: {fileID: 0}

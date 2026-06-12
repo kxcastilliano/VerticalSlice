@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67f1867d1e817e54989743604deaecae, type: 3}
+  m_Name: Walking Q1
+  m_EditorClassIdentifier: 
+  text: "What\u2019s your play?"
+  choices:
+  - text: '[Hit!]- *play along*'
+    conversation: {fileID: 11400000, guid: f7b3710c6ae13fb4c8ef05fdbd511452, type: 2}
+    endingChange: 1
+  - text: '[Stand!]- *let him be*'
+    conversation: {fileID: 11400000, guid: 1530f2054dbffd14a9cf858ff70d326f, type: 2}
+    endingChange: -1

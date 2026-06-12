@@ -29,13 +29,13 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: I won!
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'very good. '
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Hehe
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   questions: {fileID: 0}
   nextconversation: {fileID: 0}
   isLastInteraction: 1

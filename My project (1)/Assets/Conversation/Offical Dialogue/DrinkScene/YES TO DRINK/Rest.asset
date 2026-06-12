@@ -17,43 +17,43 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "Sorry\u2026 do y\u2019mind if I\u2026..\r\n"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "Hm? Oh\u2026"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Is someone a lightweight?
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "Shut.. up\u2026\r\n"
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "Cute\u2026 "
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Geez.. what even is in these drinks
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: I do apologize
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "I would\u2019ve got something more tame."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: is it bad to say that I want more-
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "I don\u2019t think that\u2019s a good idea.\u2019"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "eugh\u2026"
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Ryn?
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Ryn?!
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   questions: {fileID: 0}
   nextconversation: {fileID: 0}
   isLastInteraction: 1

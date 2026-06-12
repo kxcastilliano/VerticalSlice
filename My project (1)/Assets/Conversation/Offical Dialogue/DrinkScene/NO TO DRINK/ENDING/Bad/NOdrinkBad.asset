@@ -17,16 +17,16 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Oh ryn... Betting with you is so fun
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: You know what I love most about betting?
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Winning.
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 410072805fb92714495d39ecb9af98f3, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: What are you talking about
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: I love... to win.
     expression: {fileID: 0}

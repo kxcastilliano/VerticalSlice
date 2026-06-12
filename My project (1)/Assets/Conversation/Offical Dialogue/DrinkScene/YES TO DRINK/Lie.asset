@@ -17,46 +17,46 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "I\u2019m\u2026."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Here with my partner
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: ' a partner? Like as in'
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: ' BUSINESS.. Partner-
 
 '
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "ahh\u2026."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 410072805fb92714495d39ecb9af98f3, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "I was about to say\u2026 how could they leave you all alone with a stranger."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: f074d282601e0b74a88c44f547a3cfb2, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "he\u2019s probably at the slots\u2026 "
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'He? '
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 410072805fb92714495d39ecb9af98f3, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: 'yes. '
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "hmm\u2026"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: So what is it that you do anyways? Outside of staring at people like a
       creep.
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: ' Im a film director'
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "hah. You\u2019re funny. "
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 4e598664129a7b4428dcfa2ad20fd04a, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: wait really?
     expression: {fileID: 0}
@@ -65,7 +65,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "That\u2019s so.. Cool"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Have you worked on anything yet?
     expression: {fileID: 0}

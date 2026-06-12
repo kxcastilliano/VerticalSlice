@@ -17,16 +17,16 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: (I plant a kiss on his cheek)
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Is that good enough for you?
-    expression: {fileID: 21300000, guid: e58fb351279cd7949a16b4b127917c48, type: 3}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "Hey now don\u2019t tempt me with good time\u2026"
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "HEY! Don\u2019t get any ideas "
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 040f6d41d34c6504c8a9122c52bb89d6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: " I\u2019m kidding I\u2019m kidding\u2026."
     expression: {fileID: 0}

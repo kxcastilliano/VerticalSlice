@@ -17,21 +17,27 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: You know, casinos may look lavish, but they can get pretty depressing.
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: How so?
+    expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'You know, this place lingers with desperate people who want a second chance
       in life. '
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
-    text: 'You know, this place lingers with desperate people who want a second chance
-      in life. '
+    text: ...
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: They think one try at the slot machines will change their entire world.
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "it\u2019s\u2026. Sad."
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'You should be careful out here, my dear- some of these gamblers are hungry
       for money. '
+    expression: {fileID: 21300000, guid: 5738531f6c9943b44adfb6c8fac35aa8, type: 3}
   questions: {fileID: 0}
   nextconversation: {fileID: 0}
   isLastInteraction: 1

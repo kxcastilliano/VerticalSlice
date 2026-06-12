@@ -17,7 +17,7 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: ' Hmm you bet for this one on your own will join next round'
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "You\u2019re lame. Fine. "
     expression: {fileID: 0}
@@ -98,7 +98,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: A reward what?!
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   questions: {fileID: 11400000, guid: 28c8bb2d542563546aa2472f91acf78c, type: 2}
   nextconversation: {fileID: 0}
   isLastInteraction: 0

@@ -65,4 +65,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NoDrink/GoodNoDrink.unity
     guid: d24958f9e8422ad4fb53c1e34eba7667
+  - enabled: 1
+    path: Assets/Scenes/WalkContSce.unity
+    guid: b477d0463216a7449acf83059a0052d6
+  - enabled: 1
+    path: Assets/Scenes/Walkcon.unity
+    guid: 2d86b22ae712b8e47b864cc45eec42f4
+  - enabled: 1
+    path: Assets/Scenes/Bad Walk Cut.unity
+    guid: 9acf18dee47f6824588c7a661d4818ee
+  - enabled: 1
+    path: Assets/Scenes/BadWalk.unity
+    guid: 7308621e06129bb46ae299c0a9874ce5
+  - enabled: 1
+    path: Assets/Scenes/Good Walk Cut.unity
+    guid: dd4d02cbd9f415443bd90b4f30597ed3
+  - enabled: 1
+    path: Assets/Scenes/GoodWalk.unity
+    guid: 9e0f03e553c03cc40becdb9b8aac6356
   m_configObjects: {}

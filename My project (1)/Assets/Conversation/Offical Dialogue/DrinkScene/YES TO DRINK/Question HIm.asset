@@ -17,10 +17,10 @@ MonoBehaviour:
   lines:
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "Who are you\u2026?"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 37e56ce01a594da4fadeb20dcc88edb4, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: Pardon?
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "I mean\u2026 What's your name.."
     expression: {fileID: 0}
@@ -35,7 +35,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: ' My name is Kalos. A pleasure to meet you. '
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5738531f6c9943b44adfb6c8fac35aa8, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "You know, I don\u2019t blame you for being so suspicious of me."
     expression: {fileID: 0}
@@ -50,7 +50,7 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "I\u2019m just being kind."
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 4e598664129a7b4428dcfa2ad20fd04a, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: "I see\u2026 "
     expression: {fileID: 0}
@@ -65,10 +65,10 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: 'Hm? '
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "Oh, it's a Cosmopolitan. \r"
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5738531f6c9943b44adfb6c8fac35aa8, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: "I thought you\u2019d like it. It matches your hair.\r\n\r"
     expression: {fileID: 0}
@@ -83,14 +83,14 @@ MonoBehaviour:
     expression: {fileID: 0}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Cheers.
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: a1490a84592d4424bb548be7f4fa0374, type: 3}
   - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: Wow.. this drink is good
-    expression: {fileID: 0}
+    expression: {fileID: 21300000, guid: 5f1ec7c1bf5016346b8ecea8f909a7a6, type: 3}
   - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
     text: So Ryn, Remind me, what brings you here?
-    expression: {fileID: 0}
-  - character: {fileID: 11400000, guid: ceb1a7909d01705478cf655dbaaaee6e, type: 2}
+    expression: {fileID: 21300000, guid: da81c317079b5774fb0e89b7a1ab90db, type: 3}
+  - character: {fileID: 11400000, guid: fbe0e12a368207d42aadf48040e4ab93, type: 2}
     text: He seem like a nice guy.. Do I trust him enough to share that
     expression: {fileID: 0}
   questions: {fileID: 11400000, guid: 9cde2190b3d3dcd4fade9f56bb927c16, type: 2}
